@@ -10,10 +10,10 @@
 ## MY STATS
 
 <a href="https://github.com/kartikeyy31">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikeyy31&show_icons=true&theme=react&line_height=27" alt="Kartikey's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikeyy31&show_icons=true&theme=light&line_height=27" alt="Kartikey's github stats"/>
 </a>
 <a href="https://github.com/kartikeyy31">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyy31&theme=react&hide_langs_below=1&line_height=27&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyy31&theme=light&hide_langs_below=1&line_height=27&layout=compact" />
 </a>
 
 <div align="center">
