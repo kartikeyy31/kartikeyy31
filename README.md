@@ -6,7 +6,7 @@
   <li>My passion extends to programming competitions, where I'm constantly honing my skills and experimenting with innovative methods to tackle problems head-on.</li>
   <li>I'm not just passionate about coding but also have a keen interest in mentoring and sharing my knowledge of Data Structures and Algorithms.</li>
 </ul>
-
+<!--
 ## MY STATS
 
 <a href="https://github.com/kartikeyy31">
@@ -21,7 +21,7 @@
   ### Projects made with ❤️👇
 </div>
 
-<!--
+
 **kartikeyy31/kartikeyy31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
